@@ -3,5 +3,4 @@
 README
 
 
-![alt tag](https://imgur.com/KnPOyIX)
-
+![Imgur](https://i.imgur.com/R22RYXF.png)
